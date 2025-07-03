@@ -1,8 +1,20 @@
-article {
-  max-width: 800px;
+form {
+  max-width: 400px;
   margin: 2rem auto;
-  padding: 0 1rem;
+  display: flex;
+  flex-direction: column;
 }
-h2 {
-  color: #333;
+label {
+  margin-top: 1rem;
+}
+input {
+  padding: 0.5rem;
+  font-size: 1rem;
+}
+button {
+  margin-top: 1rem;
+  padding: 0.5rem;
+  background-color: #333;
+  color: #fff;
+  border: none;
 }
