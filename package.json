@@ -1,0 +1,19 @@
+{
+  "name": "Blogging Website",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Huraira1R/Blogging-Website85.git "
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Huraira1R/Blogging-Website85/issues"
+  },
+  "homepage": "https://github.com/Huraira1R/Blogging-Website85#readme",
+  "description": ""
+}
